@@ -98,5 +98,11 @@ Highlighting [RFC-3936 Uniform Resource Identifier (URI)](https://datatracker.ie
     numeric form and filtered based on the numeric value, and not on a
     prefix or suffix of the string form
 
+See also:
+- [CVE-2021-29418 - Node.js](https://nvd.nist.gov/vuln/detail/CVE-2021-29418);
+- [CVE-2021-29921 - Python](https://nvd.nist.gov/vuln/detail/CVE-2021-29921);
+- [CVE-2021-29922 - Rust](https://nvd.nist.gov/vuln/detail/CVE-2021-29922);
+- [CVE-2021-29923 - Go](https://nvd.nist.gov/vuln/detail/CVE-2021-29923).
+
 ## Contributing
 You want to contribute to this project? Wow, thanks! So please just fork it and send a pull request.
