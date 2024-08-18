@@ -55,7 +55,7 @@ func main() {
 
 	_, err := ValidateIP(inputIP)
 	if err != nil {
-		fmt.Printf("Invalid IP address: %s\n, expected four octets.", inputIP)
+		fmt.Printf("Invalid IP address: %s\n", inputIP)
 	}
 
 	parts := strings.Split(inputIP, ".")
